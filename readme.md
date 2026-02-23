@@ -81,26 +81,34 @@
 
 ## 💼 Professional Experience
 
-### 🔹 Data Engineer @ Pavane Solutions Inc.
-*Jun 2024 - Present | Remote, NJ*
-- 🚀 Designed scalable ETL pipelines using **PySpark** and **Apache Airflow** → **35% throughput improvement**
-- ☁️ Migrated legacy systems to **AWS** (S3, Redshift, Glue) → **25% cost reduction**
-- 🔧 Implemented **Infrastructure as Code** using **Terraform**
-- 📊 Built data quality monitoring with **CloudWatch** and Python
+**Pavane Solutions Inc.** — Data Engineer *(Jul 2024 – Present)*
+- PySpark + Airflow pipelines on AWS EMR/Glue processing **200GB+ daily** healthcare data into Redshift and Athena — **99.5% uptime**
+- Orchestrating **50+ DAGs** with retry logic and SLA monitoring → **40% less manual intervention**
+- Migrated Oracle → Snowflake with dbt-powered incremental ELT and star schema modeling
+- Optimized PySpark jobs (broadcast joins, dynamic partitioning) → **35% faster processing**, **$1,800/mo saved**
+- Data quality framework: CloudWatch + Python validators catching schema drift, null violations, integrity issues
+- Containerized deployments via Docker on AWS EKS with Jenkins CI/CD
 
-### 🔹 Data Science Researcher @ Saint Peter's University
-*Nov 2023 - Feb 2025 | Jersey City, NJ*
-- 🏆 Presented **2 research projects** at **NJBDA 2025** (health-tech & NLP)
-- 🌍 Built **AQI-based routing system** for respiratory patients using **Azure Maps API**
-- 🤖 Engineered hybrid **ACO + Grid Search** algorithm → **15% accuracy improvement**
-- ⚡ Automated Azure pipelines → **50% reduction** in manual processing
+**Saint Peter's University** — Data Science Researcher *(Nov 2023 – Feb 2025)*
+- Built least-polluted routing algorithm using Azure Maps + live AQI data → **1st Prize, SPU Data Science Showcase 2024**
+- NLP pipeline ingesting **10K+ daily news articles** from NYT and Bing APIs with PySpark sentiment analysis
+- Hybrid ACO + Grid Search algorithm for breast cancer diagnostics → **+15% accuracy, -20% training time**
+- AWS Lambda + S3 + CloudFront platform → **65% reduction** in content delivery latency
+- Presented **2 research papers** at NJBDA 2025 (NLP pipelines + AQI routing) — both under peer review
+- Founded and led **SPU Data Science Club** (50+ members)
 
-### 🔹 Data Scientist II @ IT Nopal Technologies
-*Jun 2021 - Jan 2023 | New Delhi, India*
-- 🏏 Led real-time **match analytics pipelines** for sports data
-- 📈 Improved ML model accuracy by **20%** through hyperparameter tuning
-- 💰 Reduced AWS costs by **15%** through optimization
-- 🐳 Containerized workflows using **Docker** with **GitLab CI/CD**
+**IT Nopal Technologies** — Data Scientist II *(Jun 2021 – Jan 2023)*
+- Sports analytics pipelines processing **50K+ match events weekly** via REST APIs + Airflow + AWS S3
+- **100% data integrity** across ingestion layers with Python-based JSON validation
+- ML model accuracy improved **20%** through ensemble modeling and feature engineering
+- AWS cost optimization → **15% reduction** across Lambda, EC2, and S3
+- Containerized ML workflows with Docker + GitLab CI/CD
+
+**IT Nopal Technologies** — Data Scientist I *(Jan 2019 – May 2021)*
+- Migrated **10M+ records** from MongoDB → PostgreSQL → **85% faster queries, 70% less EC2 cost**
+- Serverless analytics layer with AWS Lambda + API Gateway → **30% performance improvement**
+- PyTorch classification models deployed as Flask APIs → **82% accuracy**, cutting A/B test cycles by 3 days
+- Plotly + SQL dashboards tracking KPIs across **4+ departments**
 
 ---
 
