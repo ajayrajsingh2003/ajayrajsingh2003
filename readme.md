@@ -13,24 +13,38 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-> **Data Engineer with 6+ years of experience** delivering production-ready data solutions and scalable ETL pipelines across **healthcare**, **sports analytics**, and **enterprise domains**.
+I'm a Data Engineer with 6+ years of experience building production systems that handle data at scale — currently at **Pavane Solutions**, where I engineer pipelines processing **200GB+ of healthcare claims daily** on AWS with 99.5% uptime.
 
-- 🔭 Currently working as **Data Engineer** at **Pavane Solutions Inc.**
-- 🎓 MS in Data Science from **Saint Peter's University** (GPA: 3.95/4.00)
-- 🏆 **First Place Winner** - Data Science Showcase 2024
-- 📊 **NJBDA 2025 Presenter** on health-tech and NLP applications
-- 👑 **Data Science Club President** & **University Ambassador**
-- 💡 Passionate about building **scalable data infrastructure** and **ML-powered solutions**
-- 📍 Based in **Jersey City, NJ**
-- 💼 **Actively seeking full-time opportunities** in Data Engineering
+My work spans both industry and research. At Saint Peter's University I built an AQI routing system for respiratory patients and an NLP pipeline processing 10,000+ news articles a day — both presented at **NJBDA 2025**. I also founded SPU's Data Science Club and graduated with a **3.95 GPA**, earning induction into Alpha Sigma Nu (top 1% of class).
 
-### 🎯 Impact Metrics
-- ✅ **35%** improvement in data processing throughput
-- ✅ **40%** reduction in manual errors through automation
-- ✅ **25%** reduction in operational costs
-- ✅ **100%** data integrity across distributed systems
+I'm actively looking for full-time Data Engineering roles where I can work on systems that matter.
+
+- 🏢 **Now:** Data Engineer @ Pavane Solutions Inc. — Remote, NJ
+- 🎓 **MS Data Science** · Saint Peter's University · GPA 3.95/4.0
+- 🥇 **1st Place** · SPU Data Science Showcase 2024
+- 🎤 **NJBDA 2025 Presenter** · NLP pipelines & health-tech routing
+- 🏛️ **Alpha Sigma Nu** · National Jesuit Honor Society · Top 1% of class
+- 👨‍💻 **Founder & President** · SPU Data Science Club · 50+ members
+- 📍 Jersey City, NJ · Open to opportunities
+
+---
+
+## Impact by the Numbers
+
+| Metric | Result |
+|---|---|
+| Daily data processed (healthcare claims) | **200GB+** |
+| Pipeline uptime @ Pavane Solutions | **99.5%** |
+| Reduction in manual intervention via Airflow | **40%** |
+| Data processing throughput improvement | **35%** |
+| AWS EMR cost savings per month | **$1,800** |
+| Operational cost reduction (cloud migration) | **25%** |
+| Query time improvement (MongoDB → PostgreSQL) | **85%** |
+| EC2 cost reduction after schema redesign | **70%** |
+| Data integrity across distributed systems | **100%** |
+| Content delivery latency reduction (CloudFront) | **65%** |
 
 ---
 
