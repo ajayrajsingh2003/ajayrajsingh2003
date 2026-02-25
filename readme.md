@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+6%2B+Years+Experience;Cloud+Solutions+Architect;ETL+%26+Big+Data+Specialist;NJBDA+2025+Research+Presenter;Award-Winning+Data+Scientist)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://akhil-149.github.io/ajay-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ajayrajsingh2003.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connectwithajayrajsingh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayrajsingh2003@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/ajayrsingh_)
